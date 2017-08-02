@@ -10,6 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="SpringAOP" target="1.5" />
       <module name="SpringAOP-XML-Proj1" target="1.5" />
     </bytecodeTargetLevel>
   </component>
