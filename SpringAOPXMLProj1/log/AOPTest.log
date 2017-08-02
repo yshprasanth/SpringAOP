@@ -1,0 +1,230 @@
+2017-08-01 12:21:26 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:17 - setAge: 25
+2017-08-01 12:21:26 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:22 - setName: Prasanth
+2017-08-01 12:21:26 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:32 - getName: Prasanth
+2017-08-01 12:21:26 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:27 - getAge: 25
+2017-08-01 12:21:26 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:37 - Inside printThrowsException() ..
+2017-08-01 12:29:57 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:17 - setAge: 25
+2017-08-01 12:29:57 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:22 - setName: Prasanth
+2017-08-01 12:29:57 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:15 - Going to setup student profile !!
+2017-08-01 12:29:57 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:32 - getName: Prasanth
+2017-08-01 12:29:57 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:15 - Going to setup student profile !!
+2017-08-01 12:29:57 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:27 - getAge: 25
+2017-08-01 12:29:57 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:15 - Going to setup student profile !!
+2017-08-01 12:29:57 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:37 - Inside printThrowsException() ..
+2017-08-01 12:42:51 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:17 - setAge: 25
+2017-08-01 12:42:51 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:22 - setName: Prasanth
+2017-08-01 12:42:52 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:15 - Going to setup student profile !!
+2017-08-01 12:42:52 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:23 - Start of aroundAdvice !!
+2017-08-01 12:42:52 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:19 - Student profile has been setup !!
+2017-08-01 14:38:41 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:17 - setAge: 25
+2017-08-01 14:38:41 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:22 - setName: Prasanth
+2017-08-01 14:38:41 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 14:38:41 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:25 - Start of aroundAdvice !!
+2017-08-01 14:38:41 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:21 - Student profile has been setup !!
+2017-08-01 14:40:36 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:17 - setAge: 25
+2017-08-01 14:40:36 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:22 - setName: Prasanth
+2017-08-01 14:40:37 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 14:40:37 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:25 - Start of aroundAdvice !!
+2017-08-01 14:40:37 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:29 - Returning: Optional.empty
+2017-08-01 14:40:37 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:21 - Student profile has been setup !!
+2017-08-01 14:40:37 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 14:40:37 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:25 - Start of aroundAdvice !!
+2017-08-01 14:40:37 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:29 - Returning: Optional.empty
+2017-08-01 14:40:37 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:21 - Student profile has been setup !!
+2017-08-01 14:40:37 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 14:40:37 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:25 - Start of aroundAdvice !!
+2017-08-01 14:40:37 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:29 - Returning: Optional.empty
+2017-08-01 14:40:37 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:21 - Student profile has been setup !!
+2017-08-01 14:47:42 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:17 - setAge: 25
+2017-08-01 14:47:42 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:22 - setName: Prasanth
+2017-08-01 14:47:43 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 14:47:43 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:25 - Start of aroundAdvice !!
+2017-08-01 14:47:43 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:29 - Returning: Optional.empty
+2017-08-01 14:47:43 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:21 - Student profile has been setup !!
+2017-08-01 14:47:43 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 14:47:43 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:25 - Start of aroundAdvice !!
+2017-08-01 14:47:43 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:29 - Returning: Optional.empty
+2017-08-01 14:47:43 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:21 - Student profile has been setup !!
+2017-08-01 14:47:43 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 14:47:43 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:25 - Start of aroundAdvice !!
+2017-08-01 14:47:43 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:29 - Returning: Optional.empty
+2017-08-01 14:47:43 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:21 - Student profile has been setup !!
+2017-08-01 14:50:32 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:17 - setAge: 25
+2017-08-01 14:50:32 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:22 - setName: Prasanth
+2017-08-01 14:50:33 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 14:50:33 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:25 - Start of aroundAdvice !!
+2017-08-01 14:50:33 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:29 - Returning: Optional.empty
+2017-08-01 14:50:33 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:21 - Student profile has been setup !!
+2017-08-01 14:50:33 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 14:50:33 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:25 - Start of aroundAdvice !!
+2017-08-01 14:50:33 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:29 - Returning: Optional.empty
+2017-08-01 14:50:33 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:21 - Student profile has been setup !!
+2017-08-01 14:50:33 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 14:50:33 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:25 - Start of aroundAdvice !!
+2017-08-01 14:50:33 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:29 - Returning: Optional.empty
+2017-08-01 14:50:33 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:21 - Student profile has been setup !!
+2017-08-01 14:51:11 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:17 - setAge: 25
+2017-08-01 14:51:11 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:22 - setName: Prasanth
+2017-08-01 14:51:11 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 14:51:11 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:25 - Start of aroundAdvice !!
+2017-08-01 14:51:11 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:29 - Returning: Optional.empty
+2017-08-01 14:51:11 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:21 - Student profile has been setup !!
+2017-08-01 14:51:11 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 14:51:11 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:25 - Start of aroundAdvice !!
+2017-08-01 14:51:11 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:29 - Returning: Optional.empty
+2017-08-01 14:51:11 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:21 - Student profile has been setup !!
+2017-08-01 14:51:11 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 14:51:11 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:25 - Start of aroundAdvice !!
+2017-08-01 14:51:11 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:29 - Returning: Optional.empty
+2017-08-01 14:51:11 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:21 - Student profile has been setup !!
+2017-08-01 14:59:10 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:17 - setAge: 25
+2017-08-01 14:59:10 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:22 - setName: Prasanth
+2017-08-01 14:59:11 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 14:59:11 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:25 - Start of aroundAdvice !!
+2017-08-01 14:59:11 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:29 - Returning: Optional.empty
+2017-08-01 14:59:11 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:21 - Student profile has been setup !!
+2017-08-01 14:59:11 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:27 - getAge: 25
+2017-08-01 14:59:11 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:37 - Inside printThrowsException() ..
+2017-08-01 15:00:33 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:17 - setAge: 25
+2017-08-01 15:00:33 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:22 - setName: Prasanth
+2017-08-01 15:00:33 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 15:00:33 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:25 - Start of aroundAdvice !!
+2017-08-01 15:00:33 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:29 - Returning: Optional.empty
+2017-08-01 15:00:33 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:21 - Student profile has been setup !!
+2017-08-01 15:00:33 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 15:00:33 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:25 - Start of aroundAdvice !!
+2017-08-01 15:00:33 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:29 - Returning: Optional.empty
+2017-08-01 15:00:33 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:21 - Student profile has been setup !!
+2017-08-01 15:00:33 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 15:00:33 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:25 - Start of aroundAdvice !!
+2017-08-01 15:00:33 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:29 - Returning: Optional.empty
+2017-08-01 15:00:33 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:21 - Student profile has been setup !!
+2017-08-01 15:12:28 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:17 - setAge: 25
+2017-08-01 15:12:28 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:22 - setName: Prasanth
+2017-08-01 15:12:29 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 15:12:29 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:32 - getName: Prasanth
+2017-08-01 15:12:29 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 15:12:29 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:27 - getAge: 25
+2017-08-01 15:12:29 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 15:12:29 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:37 - Inside printThrowsException() ..
+2017-08-01 15:13:10 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:17 - setAge: 25
+2017-08-01 15:13:10 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:22 - setName: Prasanth
+2017-08-01 15:13:10 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 15:13:10 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:32 - getName: Prasanth
+2017-08-01 15:13:10 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:21 - Student profile has been setup !!
+2017-08-01 15:13:10 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 15:13:10 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:27 - getAge: 25
+2017-08-01 15:13:10 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:21 - Student profile has been setup !!
+2017-08-01 15:13:10 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 15:13:10 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:37 - Inside printThrowsException() ..
+2017-08-01 15:13:10 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:21 - Student profile has been setup !!
+2017-08-01 15:14:36 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:17 - setAge: 25
+2017-08-01 15:14:36 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:22 - setName: Prasanth
+2017-08-01 15:14:36 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 15:14:36 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:32 - getName: Prasanth
+2017-08-01 15:14:36 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:21 - Student profile has been setup !!
+2017-08-01 15:14:36 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:29 - Returning: Optional[Prasanth]
+2017-08-01 15:14:36 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 15:14:36 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:27 - getAge: 25
+2017-08-01 15:14:36 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:21 - Student profile has been setup !!
+2017-08-01 15:14:36 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:29 - Returning: Optional[25]
+2017-08-01 15:14:36 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 15:14:36 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:37 - Inside printThrowsException() ..
+2017-08-01 15:14:36 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:21 - Student profile has been setup !!
+2017-08-01 15:17:13 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:17 - setAge: 25
+2017-08-01 15:17:13 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:22 - setName: Prasanth
+2017-08-01 15:17:13 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 15:17:13 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:32 - getName: Prasanth
+2017-08-01 15:17:13 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:21 - Student profile has been setup !!
+2017-08-01 15:17:13 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:29 - Returning: Optional[Prasanth]
+2017-08-01 15:17:13 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 15:17:13 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:27 - getAge: 25
+2017-08-01 15:17:13 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:21 - Student profile has been setup !!
+2017-08-01 15:17:13 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:29 - Returning: Optional[25]
+2017-08-01 15:17:13 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 15:17:13 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:37 - Inside printThrowsException() ..
+2017-08-01 15:17:13 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:21 - Student profile has been setup !!
+2017-08-01 15:17:58 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:17 - setAge: 25
+2017-08-01 15:17:58 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:22 - setName: Prasanth
+2017-08-01 15:17:58 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 15:17:58 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:32 - getName: Prasanth
+2017-08-01 15:17:58 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:21 - Student profile has been setup !!
+2017-08-01 15:17:58 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:29 - Returning: Optional[Prasanth]
+2017-08-01 15:17:58 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 15:17:58 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:27 - getAge: 25
+2017-08-01 15:17:58 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:21 - Student profile has been setup !!
+2017-08-01 15:17:58 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:29 - Returning: Optional[25]
+2017-08-01 15:17:58 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 15:17:58 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:37 - Inside printThrowsException() ..
+2017-08-01 15:17:58 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:21 - Student profile has been setup !!
+2017-08-01 15:17:58 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:33 - There has been an exception: java.lang.IllegalArgumentException
+2017-08-01 15:20:05 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:17 - setAge: 25
+2017-08-01 15:20:05 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:22 - setName: Prasanth
+2017-08-01 15:20:06 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 15:20:06 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:25 - Start of aroundAdvice !!
+2017-08-01 15:20:06 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:29 - Returning: Optional.empty
+2017-08-01 15:20:06 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:21 - Student profile has been setup !!
+2017-08-01 15:20:06 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 15:20:06 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:25 - Start of aroundAdvice !!
+2017-08-01 15:20:06 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:29 - Returning: Optional.empty
+2017-08-01 15:20:06 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:21 - Student profile has been setup !!
+2017-08-01 15:20:06 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 15:20:06 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:25 - Start of aroundAdvice !!
+2017-08-01 15:20:06 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:29 - Returning: Optional.empty
+2017-08-01 15:20:06 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:21 - Student profile has been setup !!
+2017-08-01 15:20:50 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:17 - setAge: 25
+2017-08-01 15:20:50 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:22 - setName: Prasanth
+2017-08-01 15:20:50 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 15:20:50 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:32 - getName: Prasanth
+2017-08-01 15:20:50 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:21 - Student profile has been setup !!
+2017-08-01 15:20:50 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:29 - Returning: Optional[Prasanth]
+2017-08-01 15:20:50 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 15:20:50 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:27 - getAge: 25
+2017-08-01 15:20:50 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:21 - Student profile has been setup !!
+2017-08-01 15:20:50 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:29 - Returning: Optional[25]
+2017-08-01 15:20:50 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:17 - Going to setup student profile !!
+2017-08-01 15:20:50 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:37 - Inside printThrowsException() ..
+2017-08-01 15:20:50 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:21 - Student profile has been setup !!
+2017-08-01 15:20:50 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:33 - There has been an exception: java.lang.IllegalArgumentException
+2017-08-01 15:47:23 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:17 - setAge: 25
+2017-08-01 15:47:23 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:22 - setName: Prasanth
+2017-08-01 15:47:23 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:18 - Going to setup student profile !!
+2017-08-01 15:47:24 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:32 - getName: Prasanth
+2017-08-01 15:47:24 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:22 - Student profile has been setup !!
+2017-08-01 15:47:24 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:50 - Returning: Optional[Prasanth]
+2017-08-01 15:47:24 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:18 - Going to setup student profile !!
+2017-08-01 15:47:24 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:27 - getAge: 25
+2017-08-01 15:47:24 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:22 - Student profile has been setup !!
+2017-08-01 15:47:24 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:50 - Returning: Optional[25]
+2017-08-01 15:47:24 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:18 - Going to setup student profile !!
+2017-08-01 15:47:24 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:37 - Inside printThrowsException() ..
+2017-08-01 15:47:24 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:22 - Student profile has been setup !!
+2017-08-01 15:47:24 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:54 - There has been an exception: java.lang.IllegalArgumentException
+2017-08-01 16:26:31 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:17 - setAge: 25
+2017-08-01 16:26:31 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:22 - setName: Prasanth
+2017-08-01 16:26:31 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:18 - Going to setup student profile !!
+2017-08-01 16:26:31 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:32 - getName: Prasanth
+2017-08-01 16:26:31 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:22 - Student profile has been setup !!
+2017-08-01 16:26:31 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:50 - Returning: Optional[Prasanth]
+2017-08-01 16:26:31 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:18 - Going to setup student profile !!
+2017-08-01 16:26:31 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:27 - getAge: 25
+2017-08-01 16:26:31 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:22 - Student profile has been setup !!
+2017-08-01 16:26:31 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:50 - Returning: Optional[25]
+2017-08-01 16:26:31 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:18 - Going to setup student profile !!
+2017-08-01 16:26:31 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:37 - Inside printThrowsException() ..
+2017-08-01 16:26:31 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:22 - Student profile has been setup !!
+2017-08-01 16:26:31 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:54 - There has been an exception: java.lang.IllegalArgumentException
+2017-08-01 16:27:44 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:17 - setAge: 25
+2017-08-01 16:27:44 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:22 - setName: Prasanth
+2017-08-01 16:27:44 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:18 - Going to setup student profile !!
+2017-08-01 16:27:44 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:26 - Start of aroundAdvice !!
+2017-08-01 16:27:44 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:32 - getName: Prasanth
+2017-08-01 16:27:44 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:44 - Returning result: Prasanth
+2017-08-01 16:27:44 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:50 - Returning: Optional[Prasanth]
+2017-08-01 16:27:44 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:22 - Student profile has been setup !!
+2017-08-01 16:27:44 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:18 - Going to setup student profile !!
+2017-08-01 16:27:44 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:26 - Start of aroundAdvice !!
+2017-08-01 16:27:44 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Student:27 - getAge: 25
+2017-08-01 16:27:44 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:44 - Returning result: 25
+2017-08-01 16:27:44 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:50 - Returning: Optional[25]
+2017-08-01 16:27:44 [com.sai.sri.siddhi.main.MainApp.main()] INFO  Logging:22 - Student profile has been setup !!
