@@ -6,12 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="SpringAOP-XML-Proj1" />
+        <module name="annotationConfigAOP" />
+        <module name="xmlConfigAOP" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="annotationConfigAOP" target="1.5" />
       <module name="SpringAOP" target="1.5" />
       <module name="SpringAOP-XML-Proj1" target="1.5" />
+      <module name="xmlConfigAOP" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

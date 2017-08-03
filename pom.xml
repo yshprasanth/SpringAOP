@@ -11,7 +11,8 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>./SpringAOPXMLProj1</module>
+        <module>xmlConfigAOP</module>
+        <module>annotationConfigAOP</module>
     </modules>
 	
     <dependencies>
