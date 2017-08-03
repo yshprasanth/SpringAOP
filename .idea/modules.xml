@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SpringAOP.iml" filepath="$PROJECT_DIR$/SpringAOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/annotationConfigAOP/annotationConfigAOP.iml" filepath="$PROJECT_DIR$/annotationConfigAOP/annotationConfigAOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxyConfigAOP/proxyConfigAOP.iml" filepath="$PROJECT_DIR$/proxyConfigAOP/proxyConfigAOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/xmlConfigAOP/xmlConfigAOP.iml" filepath="$PROJECT_DIR$/xmlConfigAOP/xmlConfigAOP.iml" />
     </modules>
   </component>

@@ -1,4 +1,4 @@
-package com.sai.sri.siddhi.xml.log;
+package com.sai.sri.siddhi.aop.xml.log;
 
 
 import org.apache.logging.log4j.LogManager;

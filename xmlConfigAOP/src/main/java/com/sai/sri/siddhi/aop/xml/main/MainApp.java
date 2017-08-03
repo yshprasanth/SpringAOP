@@ -1,6 +1,6 @@
-package com.sai.sri.siddhi.xml.main;
+package com.sai.sri.siddhi.aop.xml.main;
 
-import com.sai.sri.siddhi.xml.pojo.Student;
+import com.sai.sri.siddhi.aop.xml.pojo.Student;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

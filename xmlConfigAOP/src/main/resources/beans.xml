@@ -10,7 +10,7 @@
 
     <aop:config>
         <aop:aspect id="log" ref="logging">
-            <aop:pointcut id="studentAllMethods" expression="execution(* com.sai.sri.siddhi.xml.pojo.Student.*(..))" />
+            <aop:pointcut id="studentAllMethods" expression="execution(* com.sai.sri.siddhi.aop.xml.pojo.Student.*(..))" />
             <aop:before method="beforeAdvice" pointcut-ref="studentAllMethods" />
             <aop:after method="afterAdvice" pointcut-ref="studentAllMethods" />
             <aop:after-returning method="afterReturningAdvice" pointcut-ref="studentAllMethods" returning="retVal1" />
@@ -19,11 +19,11 @@
         </aop:aspect>
     </aop:config>
 
-    <bean id="student" class="com.sai.sri.siddhi.xml.pojo.Student">
+    <bean id="student" class="com.sai.sri.siddhi.aop.xml.pojo.Student">
         <property name="age" value="25" />
         <property name="name" value="Prasanth" />
     </bean>
 
-    <bean id="logging" class="com.sai.sri.siddhi.xml.log.Logging" />
+    <bean id="logging" class="com.sai.sri.siddhi.aop.xml.log.Logging" />
 
 </beans>

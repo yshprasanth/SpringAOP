@@ -2,16 +2,14 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-    <modelVersion>4.0.0</modelVersion>
-
-    <artifactId>xmlConfigAOP</artifactId>
-    <packaging>jar</packaging>
-
     <parent>
         <artifactId>SpringAOP</artifactId>
         <groupId>com.sai.sri.siddhi</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>proxyAOP</artifactId>
 
     <build>
         <plugins>
@@ -23,7 +21,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>com.sai.sri.siddhi.aop.xml.main.MainApp</mainClass>
+                            <mainClass>com.sai.sri.siddhi.aop.proxy.main.MainApp</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
@@ -41,13 +39,12 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <includeProjectDependencies>true</includeProjectDependencies>
                     <includePluginDependencies>true</includePluginDependencies>
-                    <mainClass>com.sai.sri.siddhi.aop.xml.main.MainApp</mainClass>
+                    <includeProjectDependencies>true</includeProjectDependencies>
+                    <mainClass>com.sai.sri.siddhi.aop.proxy.main.MainApp</mainClass>
                 </configuration>
             </plugin>
         </plugins>
     </build>
-
 
 </project>

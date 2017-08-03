@@ -13,6 +13,7 @@
     <modules>
         <module>xmlConfigAOP</module>
         <module>annotationConfigAOP</module>
+        <module>proxyAOP</module>
     </modules>
 	
     <dependencies>

@@ -1,4 +1,4 @@
-package com.sai.sri.siddhi.xml.pojo;
+package com.sai.sri.siddhi.aop.xml.pojo;
 
 
 import org.apache.logging.log4j.LogManager;
